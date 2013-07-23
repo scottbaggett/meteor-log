@@ -1,0 +1,8 @@
+{
+  "name": "log.js",
+  "description": "Meteor client console.log replacement by Paul Irish.",
+  "homepage": "https://github.com/scottbaggett/meteor-log",
+  "author": "scottbaggett",
+  "version": "0.0.1",
+  "git": "https://github.com/scottbaggett/meteor-log.git"
+}

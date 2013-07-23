@@ -1,6 +1,6 @@
 
 Package.describe({
-    summary: "Client side console.log replacement by Paul Irish."
+    summary: "Meteor client console.log replacement by Paul Irish."
 });
 
 Package.on_use(function (api) {
